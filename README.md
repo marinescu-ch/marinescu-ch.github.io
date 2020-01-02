@@ -1,2 +1,1 @@
-# marinescu-ch.github.io
-Main website
+![Main website](https://marinescu.ch/preview.png)
